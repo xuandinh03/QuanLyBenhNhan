@@ -1,0 +1,36 @@
+Mã bệnh nhân:4
+Họ tên:Xuân Định
+Ngày nhập:24/10/2021
+Phòng theo yêu cầu:false
+Loại bảo hiểm:Xã hội
+Mã bảo hiểm:1234
+Viện phí:1200000
+Số ngày nhập viện:8
+------------------------------------
+Mã bệnh nhân:3
+Họ tên:Định
+Ngày nhập:23/10/2021
+Phòng theo yêu cầu:true
+Loại bảo hiểm:Xã hội
+Mã bảo hiểm:123
+Viện phí:270000000000
+Số ngày nhập viện:9
+------------------------------------
+Mã bệnh nhân:2
+Họ tên:Nguyễn Xuân Định
+Ngày nhập:22/10/2021
+Phòng theo yêu cầu:false
+Loại bảo hiểm:Y tế
+Mã bảo hiểm:9037
+Viện phí:450000
+Số ngày nhập viện:10
+------------------------------------
+Mã bệnh nhân:1
+Họ tên:N X Đ
+Ngày nhập:21/10/2021
+Phòng theo yêu cầu:true
+Loại bảo hiểm:Y tế
+Mã bảo hiểm:1
+Viện phí:329998845000
+Số ngày nhập viện:11
+------------------------------------
